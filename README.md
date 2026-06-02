@@ -1,0 +1,1 @@
+датасет: https://www.kaggle.com/datasets/yuriykatser/industrial-data-from-the-arc-furnace
